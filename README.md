@@ -34,7 +34,8 @@ For your convenience, we provide some example datasets in `./data/test` folder. 
 
 After downloading, extract the pretrained model into the `./ckpt` folder, and then run `test.py`. The code will use the pretrained model to automatically process all the images in the `./data/test/speckle` folder and output the results to the `./data/test/output` folder. 
 
-
+## 💻 Simulation
+We provide simulation code for the physical scattering imaging model to generate simulation data for pre-training the network. We provide some sample data in the `./Simulation/cifar/Raw` folder. If you want to generate your own simulation data, put the data in the `./Simulation/cifar/Raw` folder and run `datagen_50_diff_PSF.ipynb`.
 
 
 
