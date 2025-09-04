@@ -1,6 +1,6 @@
 # Ultra-wide-field Noninvasive Imaging through Scattering Media via Physics-guided Deep Learning
 
-Welcome! This is the official implementation of the paper Ultra-wide-field Noninvasive Imaging through Scattering Media via Physics-guided Deep Learning.
+Welcome! This is the official implementation of the paper "Ultra-wide-field Noninvasive Imaging through Scattering Media via Physics-guided Deep Learning".
 
 
 ## 💪 Get Started
